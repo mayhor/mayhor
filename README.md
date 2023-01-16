@@ -19,7 +19,7 @@ Javascript, HTML, CSS, C, Freelance Writer, ...
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
 
-🧠 I'm currently learning @Alx and Zuri
+🧠 I'm currently learning @Alx
 
 
 
